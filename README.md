@@ -21,12 +21,4 @@ I focus on creating efficient, scalable applications using a combination of fron
 
 ---
 
-On my GitHub, you'll find resources related to:
 
-- Full-stack development
-- Web application architecture
-- API design with Django REST Framework
-- Modern JavaScript frameworks (React, Next.js, TypeScript)
-- DevOps practices (CI/CD, cloud hosting, security)
-
----
