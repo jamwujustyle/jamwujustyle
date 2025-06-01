@@ -5,6 +5,7 @@ I'm a full-stack developer with a passion for building software, solving problem
 I focus on creating efficient, scalable applications using a combination of frontend and backend tools, including:
 
 - **Django REST**
+- **Django REST** (Learning async)
 - **Next.js**
 - **PostgreSQL**
 - **Redis**
