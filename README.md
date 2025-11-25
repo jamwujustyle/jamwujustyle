@@ -9,7 +9,7 @@ I focus on creating efficient, scalable applications using a combination of fron
 - **Next.js**
 - **PostgreSQL**
 - **Redis**
-- And more...
+
 
 ---
 
@@ -23,3 +23,4 @@ I focus on creating efficient, scalable applications using a combination of fron
 ---
 
 
+mastering go..
