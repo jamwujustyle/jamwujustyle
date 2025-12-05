@@ -10,7 +10,7 @@ I focus on creating efficient, scalable applications using a combination of fron
 - **PostgreSQL**
 - **Redis**
 
-mastering go..
+gazing go..
 
 ---
 
