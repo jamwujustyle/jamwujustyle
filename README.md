@@ -8,20 +8,10 @@ I focus on creating efficient, scalable applications using a combination of fron
 - **FastAPI** 
 - **Next.js**
 - **PostgreSQL**
-- **Redis**
 
-
-
----
-
-## 🚀 **What I Do**
-
-- **Build scalable web applications** using modern full-stack technologies.
-- **Design APIs** with Django REST Framework.
-- **Work with databases** like PostgreSQL and Redis.
-- **Implement modern JavaScript frameworks** like React and Next.js.
+mastering go..
 
 ---
 
-
+## 🚀 **I architect, orchestrate and automate**
 
