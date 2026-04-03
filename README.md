@@ -1,7 +1,7 @@
 ```json
 {
-  "name": "Jam",
-  "role": "Full-Stack Developer",
+  "name": "Zhamshid ",
+  "role": "Full-Stack Developer & Future DevOps",
   "focus": "Efficient, scalable applications",
   "stack": {
     "backend": ["Django REST", "FastAPI"],
