@@ -9,7 +9,7 @@
     "database": ["PostgreSQL"],
     "learning": ["Go"]
   },
-  "OS": "Ubuntu 24.04 Noble & 25.10 Questing Quokka",
+  "OS": "Ubuntu 24.04 Noble Numbat & 25.10 Questing Quokka",
   "motto": "I architect, orchestrate and automate 🚀"
 }
 ```
