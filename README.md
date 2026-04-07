@@ -1,6 +1,6 @@
 ```json
 {
-  "name": "Zhamshid ",
+  "name": "Zhamshid",
   "role": "Full-Stack Developer & Future Cloud Engineer",
   "focus": "Efficient, scalable applications",
   "stack": {
