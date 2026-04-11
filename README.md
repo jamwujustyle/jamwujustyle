@@ -6,7 +6,7 @@ package zhamshid;
  * Role: Software Developer & Future Cloud Engineer
  */
 message AboutMe {
-  option (api_version) = 24.04 Noble Numbat; 
+  option (os_version) = 24.04 Noble Numbat; 
   option (status) = LEARNING;
   
   message Metadata {
