@@ -36,3 +36,4 @@ message AboutMe {
 }
 ```
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhamshid-abdulazizov)
+[![Telegram](https://img.shields.io/badge/TELEGRAM-FF69B4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/noregards168)
