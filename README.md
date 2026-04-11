@@ -22,7 +22,7 @@ message AboutMe {
   }
 
   message TechStack {
-    option (os_version) = 24.04 Noble Numbat; 
+    option (os_version) = 24.04 Noble Numbat & 25.10 Questing Quokka; 
     repeated string backend = 1;  // ["Django", "FastAPI", "Go"]
     repeated string frontend = 2; // ["Next.js"]
     repeated string cloud = 3;    // ["PostgreSQL", "Docker", "AWS (In Progress)"]
