@@ -4,8 +4,8 @@ syntax = "proto3";
 package zhamshid;
 
 /* User: Zhamshid Abdulazizov
-*/ Role: Software Developer & Future Cloud Engineer
- 
+/  Role: Software Developer & Future Cloud Engineer
+*/ 
 message AboutMe {
   option (status) = SKILLMAXXING;
   option (created_at) = {
