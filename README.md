@@ -7,8 +7,12 @@ package zhamshid;
  * Role: Software Developer & Future Cloud Engineer
  */
 message AboutMe {
-  option (os_version) = 24.04 Noble Numbat; 
   option (status) = LEARNING;
+  option (created_at) = {
+    year: 2001,
+    month: June,
+    day: 8
+  };
   
   message Metadata {
     string name = "Zhamshid Abdulazizov";
@@ -18,6 +22,7 @@ message AboutMe {
   }
 
   message TechStack {
+    option (os_version) = 24.04 Noble Numbat; 
     repeated string backend = 1;  // ["Django", "FastAPI", "Go"]
     repeated string frontend = 2; // ["Next.js"]
     repeated string cloud = 3;    // ["PostgreSQL", "Docker", "AWS (In Progress)"]
