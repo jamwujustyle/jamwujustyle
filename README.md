@@ -7,7 +7,7 @@ package zhamshid;
  * Role: Software Developer & Future Cloud Engineer
  */
 message AboutMe {
-  option (status) = SKILL-MAXXING;
+  option (status) = SKILLMAXXING;
   option (created_at) = {
     year: 2001,
     month: June,
