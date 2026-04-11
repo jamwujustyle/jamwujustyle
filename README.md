@@ -1,3 +1,4 @@
+```protobuf
 syntax = "proto3";
 
 package zhamshid;
@@ -28,3 +29,4 @@ message AboutMe {
     INDEPENDENT = 2;
   }
 }
+```
